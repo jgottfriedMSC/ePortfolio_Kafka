@@ -14,3 +14,5 @@ Prerequisite: Docker is required for this project, which means you need to insta
 
 Now you can start to process data with the Kafka Producer and Consumer.
 
+To produce data into the Kafka topic "cities", just configure your run configurations to execute the CityProducer.java class. 
+To consume data from the Kafka topic "cities", just configure your run configurations to execute the CityConsumer.java class.
